@@ -16,10 +16,13 @@ HTML, CSS Styles
 
 #### Results
 Created a webpage with a dynamic table and multiple search criteria. Snapshot below of webpage with no filtering.
-<image with no filtering, Module 12 webpage>
+Image 1: Webpage without filtering on table<br/>
+![Webpage without filtering on table](https://github.com/sag7221/UFOs/blob/main/images/Module_12_Webpage.png)
+
 We can now add our filtering, example: fetch results for only state of arizona (ar)
 Snapshot below
-
+Image 2: Webpage after filtering<br/>
+![Weboage after filtering](https://github.com/sag7221/UFOs/blob/main/images/Module%2012_After_filtering.png)
 
 #### Summary
 Overall, we are able to filter on our criteria, but it comes with it's drawback.
